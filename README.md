@@ -1,0 +1,1 @@
+# Fictitious documentation project with Git and GitHub
