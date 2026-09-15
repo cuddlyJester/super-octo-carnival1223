@@ -10,3 +10,5 @@ This line was added from my computer.
 This line was added from GitHub.
 
 ## Installation
+
+Manually resolved conflict between two branches.
