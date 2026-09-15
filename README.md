@@ -6,3 +6,5 @@ This project is used to learn Git step by step.
 Practice Git and GitHub by creating a well-structured README and applying good versioning practices.
 
 This line was added from my computer.
+
+This line was added from GitHub.
