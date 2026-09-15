@@ -8,3 +8,5 @@ Practice Git and GitHub by creating a well-structured README and applying good v
 This line was added from my computer.
 
 This line was added from GitHub.
+
+## Installation
